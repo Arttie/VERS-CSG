@@ -1,2 +1,2 @@
-# VERS-CSG
-Vitas-Excir Roleplay System : Character Sheet Generator
+# VERS-CSM
+Vitas-Excir Roleplay System : Character Sheet Manager
